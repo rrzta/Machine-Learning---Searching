@@ -1,8 +1,8 @@
-#Jika ingin mengganti format population size, panjang kromosom, batas maksimal iterasi, prob crossover, prob mutation, rumus fungsi, dan domain.
-1. Buka file "PROGRAM_TUPRO1_AI_1301200283_1301200362.py" dengan code editor apapun.
-2. Edit code pada bagian if __name__ == "__main__", lebih tepatnya pada profile.
-3. Save dan jalankan code dengan command "python (namaFile).py"
+#If you want to change the population size format, chromosome length, maximum iteration limit, crossover prob, mutation prob, function formula, and domain.
+1. Open the file "PROGRAM_TUPRO1_AI_1301200283_1301200362.py" with any code editor.
+2. Edit the code in the if __name__ == "__main__", more precisely in the profile.
+3. Save and run the code with the command "python (filename).py"
 
-#Jika ingin me-run code
-1. Buka terminal dan sesuaikan path pada file anda
-2. Ketikkan command "python (namaFile).py"
+#If you want to run the code
+1. Open a terminal and adjust the path to your file
+2. Type the command "python (filename).py"
